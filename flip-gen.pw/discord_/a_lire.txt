@@ -1,0 +1,12 @@
+
+
+
+Vous pouvez afficher les stats de votre site Web (Nbre d'inscrits, Nbr de générateurs etc..) via un embed dans un salon de votre serveur discord.
+Pour cela il vous suffit de créer un bot discord, puis de configurer le fichier "webhook_stats.php".
+
+Vous pouvez automatiser la mise à jour de l'embed via une tache CRON.
+
+Apperçu : 
+https://media.discordapp.net/attachments/1357435540261175567/1371173042444832870/image.png?ex=68222be8&is=6820da68&hm=521b789e71df5f52b4bce8b41cfafb767335fb436b9d91fb625a8cf96f980116&=&format=webp&quality=lossless
+
+Plus d'infos me mp discord : celwo

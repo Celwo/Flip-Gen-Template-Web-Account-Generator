@@ -1,0 +1,25 @@
+{
+    "httpCode": 204,
+    "response": "",
+    "error": "",
+    "data_sent": {
+        "content": "<@&id_du_role>",
+        "embeds": [
+            {
+                "title": "\ud83d\udce6 Restock de __1__ compte(s) **Disney+**",
+                "color": 65280,
+                "author": {
+                    "name": "flip-gen.pw",
+                    "icon_url": "https:\/\/dev.flip-gen.pw\/assets\/flipflap.png"
+                },
+                "footer": {
+                    "text": "Par : User1"
+                },
+                "timestamp": "2025-05-13T21:58:36+02:00",
+                "image": {
+                    "url": "https:\/\/store-images.s-microsoft.com\/image\/apps.55921.14495311847124170.7646206e-bd82-4cf0-8b8c-d06a67bc302c.f939755d-cf85-415a-80dc-b98e3ccacd22"
+                }
+            }
+        ]
+    }
+}

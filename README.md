@@ -70,3 +70,6 @@ Les contributions sont les bienvenues. N'hésitez pas à ouvrir une *issue* ou u
 Créé avec ❤️ par Celwo.
 
 > Pour toute question ou problème, contactez-moi sur Discord > `celwo`.
+
+https://media.discordapp.net/attachments/1357435540261175567/1371921783883829531/image.png?ex=6824e53a&is=682393ba&hm=df595aef91b3a04c3dad89de6b409f2bc9ccd88759604ecb2649bc2a74077404&=&format=webp&quality=lossless&width=1767&height=856
+https://media.discordapp.net/attachments/1357435540261175567/1371921901827391539/image.png?ex=6824e556&is=682393d6&hm=caceaf7fe63c96936f7d3a9615983fd6d192122dae587e543399445164eb760f&=&format=webp&quality=lossless&width=1765&height=856

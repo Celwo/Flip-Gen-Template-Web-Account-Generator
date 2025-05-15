@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $_SESSION['role_update_success'] = "Le rôle de <strong>" . htmlspecialchars($user['name']) . "</strong> a été mis à jour en <strong>$new_role</strong>.";
 
         // Log Discord
-        $webhookUrl = "https://discord.com/api/webhooks/1361423115359617184/aLPx6NkSr5981EzAzVS1epQBOhqT7Bl0ETa4KQOpZRKJb8_jedrGYAS1tj4DtE8yTeF8";
+        $webhookUrl = $webhook_logs;
 
         $adminWhoChanged = $_SESSION['username'];
         $vipExpireText = ($new_role === 'vip' && $vip_expiration) ? "\n📅 Expire le : " . date('d/m/Y', strtotime($vip_expiration)) : "";
